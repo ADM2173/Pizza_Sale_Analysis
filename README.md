@@ -1,3 +1,5 @@
+Aditya Meena
+
 Project Overview:
 
 This SQL project is centered around a database schema designed to manage and analyze key data for a pizza shop. The database comprises four main tables: order_details, pizzas, orders, and pizza_types. Each table plays an essential role in storing various aspects of the business, ranging from individual customer orders to the types of pizzas available. Below is a breakdown of the tables and their respective columns:Sales Insights: By querying data from the order_details and pizzas tables, managers can identify top-selling pizzas, analyze revenue by pizza size, and refine pricing strategies.
